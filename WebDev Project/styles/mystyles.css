@@ -1,0 +1,17 @@
+.italic {
+    font-style: italic;
+}
+
+.newfont {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.bold {
+    font-style: bold;
+
+}
+
+.underline {
+    text-decoration: underline;
+}
